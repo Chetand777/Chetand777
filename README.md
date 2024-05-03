@@ -13,6 +13,7 @@
 </div>
 
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<br />
 
 ### Technical Experience and Interest
 - Deep Learning
@@ -20,24 +21,40 @@
 - Computer Vision
 - Natural Language Processing
 - Generative AI
+<br />
 
 ### Languages and Tools
-[![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
-[![mongodb](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
-[![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![opencv](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
-[![pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+<br />
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=red" alt="Flask"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=red" alt="FastAPI"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/-NLTK-8CAAE6?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spacy.io/"><img src="https://img.shields.io/badge/-spaCy-03C4A1?style=flat-square&logo=spaCy&logoColor=white" alt="spaCy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 
 ### Hobbies and Interests
 - Coding
 - Coding
 - Coding
+
+<br />
 
 ### Find Me On
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetan-d-2619401aa/)
