@@ -33,13 +33,16 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Commit changes
+      - name: Configure Git
         run: |
           git config --global user.name 'Chetand777'
           git config --global user.email 'chetandaddikar31@gmail.com'
+
+      - name: Commit changes
+        run: |
           git add combined.svg
-          git commit -m "Add combined SVG with snake animation"
-        
+          git diff-index --quiet HEAD || git commit -m "Add combined SVG with snake animation"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
