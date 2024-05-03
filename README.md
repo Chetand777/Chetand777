@@ -40,7 +40,7 @@
 ### Find Me On
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetan-d-2619401aa/)
 
-![snake gif](https://github.com/Chetand777/Chetand777/blob/output/github-contribution-grid-snake.svg)
+
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetand777&show_icons=true&theme=dark)](https://github.com/Chetand777)
