@@ -13,6 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Check if github-contribution-grid.svg exists
+        run: |
+          if [ ! -f github-contribution-grid.svg ]; then
+            echo "Error: github-contribution-grid.svg does not exist."
+            exit 1
+          fi
+
       - name: Generate the snake
         uses: Platane/snk@master
         id: snake
