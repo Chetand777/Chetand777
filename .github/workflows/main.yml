@@ -28,7 +28,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: Chetand777/Chetand777  # Specify the repository owner and name
           branch: master
           force: true
 
