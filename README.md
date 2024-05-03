@@ -12,6 +12,8 @@
 
 </div>
 
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+
 ### Technical Experience and Interest
 - Deep Learning
 - Machine Learning
@@ -40,7 +42,7 @@
 ### Find Me On
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetan-d-2619401aa/)
 
-![snake gif](https://github.com/Chetand777/Chetand777/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Chetand777/Chetand777/blob/output/github-contribution-grid-snake.svg)
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetand777&show_icons=true&theme=dark)](https://github.com/Chetand777)
@@ -50,6 +52,7 @@
 
 ### Contribution Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chetand777&theme=dark)](https://github.com/Chetand777)
+
 
 
 💡 Let's connect and collaborate! Reach out to me for any opportunities, doubts, or suggestions. Looking forward to connecting with you! 🤝
