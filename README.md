@@ -23,30 +23,41 @@
 - Generative AI
 <br />
 
-### Languages and Tools
-<br />
+### Languages:
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=red" alt="Flask"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=red" alt="FastAPI"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/-NLTK-8CAAE6?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spacy.io/"><img src="https://img.shields.io/badge/-spaCy-03C4A1?style=flat-square&logo=spaCy&logoColor=white" alt="spaCy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+| Python3 | 
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
+### Best frameworks and main libraries for Python3:
+
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | Keras | NLTK | TensorFlow | Plotly | Seaborn | Spacy |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/Keras%20(1).svg" title="Keras"  alt="Keras" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/NLTK.svg" title="NLTK"  alt="NLTK" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/TF.svg" title="TensorFlow"  alt="TensorFlow" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/plotly.svg" title="Plotly"  alt="Plotly" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/seaborn.svg" title="Seaborn"  alt="Seaborn" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/spacy.svg" title="Spacy"  alt="Spacy" width="55" height="55"/>| 
+
+### My tools for Data Manipulation:
+
+| Jupyter | MySQL |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+
+### Environments, Testing, Other:
+
+| Git | Docker |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
+
+### Web Frameworks:
+
+| FastAPI | Flask | HTML | CSS |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/FastAPI.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/flask.svg" title="Flask" alt="Flask" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/HTML.svg" title="HTML" alt="HTML" width="55" height="55"/>| <img src="https://github.com/Chetand777/Chetand777/blob/output/Images/css.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+
+### OS: ❤️ (linux one love)
+
+| Linux | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 
 ### Hobbies and Interests
@@ -54,7 +65,6 @@
 - Coding
 - Coding
 
-<br />
 
 ### Find Me On
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetan-d-2619401aa/)
